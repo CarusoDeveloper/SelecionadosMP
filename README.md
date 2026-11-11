@@ -1,78 +1,78 @@
 <p align="center">
-  <img src="./assets/cover.svg" alt="SelecionadosMP — estradas compartilhadas, viagens em comunidade" width="100%" />
+  <img src="./assets/cover.svg" alt="SelecionadosMP — shared roads, community journeys" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Uma estrada. Vários motoristas. A mesma viagem.</strong>
+  <strong>One road. Many drivers. One shared journey.</strong>
 </p>
 
 <p align="center">
-  <sub>Experiência multiplayer comunitária de condução de caminhões.</sub>
+  <sub>A community-driven truck-driving multiplayer experience.</sub>
 </p>
 
 ---
 
-<sub>01 / VISÃO GERAL</sub>
+<sub>01 / OVERVIEW</sub>
 
-## O que é o SelecionadosMP?
+## What is SelecionadosMP?
 
-O **SelecionadosMP** é um projeto independente de multiplayer voltado à **simulação de condução de caminhões**. A proposta é reunir motoristas virtuais em sessões compartilhadas, onde cada pessoa pode seguir sua rota, encontrar outros jogadores e participar de viagens em grupo.
+**SelecionadosMP** is an independent multiplayer project centered on **truck-driving simulation**. It brings virtual drivers together in shared sessions, where each player can follow their own route, encounter other drivers and take part in group journeys.
 
-A experiência é construída em torno de três ideias: **dirigir junto, conviver na estrada e valorizar a comunidade**.
+The experience is built around three ideas: **driving together, sharing the road and building a respectful community**.
 
-O projeto está **em desenvolvimento**, com participação em etapas de testes de acesso controlado. Funcionalidades e disponibilidade podem variar entre versões.
-
-<br>
-
-<sub>02 / EXPERIÊNCIA DE JOGO</sub>
-
-## Como funciona?
-
-1. **Participação:** o jogador cria seu perfil e solicita entrada na comunidade. O acesso às sessões de teste depende de aprovação.
-2. **Preparação:** após receber acesso, o jogador utiliza o aplicativo de inicialização para entrar na experiência multiplayer.
-3. **Estrada compartilhada:** motoristas conectados à mesma sessão podem se encontrar durante as viagens e acompanhar a presença de outros veículos.
-4. **Viagens em grupo:** os participantes podem combinar rotas e formar comboios, respeitando as regras de convivência.
-5. **Comunidade:** a experiência incentiva direção responsável, colaboração e respeito entre jogadores.
-
-> O acesso é limitado durante o desenvolvimento. A descrição representa a proposta de jogo; determinados recursos ainda passam por testes e ajustes.
+The project is **under active development**, with participation currently limited to approved testing groups. Features and availability may change between versions.
 
 <br>
 
-<sub>03 / O QUE DEFINE A EXPERIÊNCIA</sub>
+<sub>02 / GAMEPLAY EXPERIENCE</sub>
 
-## Feito para viajar acompanhado.
+## How does it work?
 
-| ESTRADAS COMPARTILHADAS | COMBOIOS | CONVIVÊNCIA |
+1. **Join the community.** Players create a profile and request access. Participation in test sessions requires approval.
+2. **Get ready to drive.** Once approved, players use the launcher to enter the multiplayer experience.
+3. **Share the road.** Drivers in the same session can meet during their journeys and see other participating vehicles.
+4. **Travel together.** Players can plan routes and organize convoys while following the community rules.
+5. **Respect the journey.** Responsible driving, collaboration and fair play help keep the experience enjoyable for everyone.
+
+> Access remains limited during development. This section describes the intended gameplay experience; some features are still being tested and refined.
+
+<br>
+
+<sub>03 / THE EXPERIENCE</sub>
+
+## Better roads, together.
+
+| SHARED ROADS | GROUP CONVOYS | COMMUNITY |
 | :--- | :--- | :--- |
-| A sensação de dividir a rota com outros motoristas. | Viagens organizadas em grupo, do ponto de partida ao destino. | Uma comunidade com regras para manter as sessões agradáveis. |
+| Experience the road alongside other virtual drivers. | Plan a route and travel together from departure to destination. | Follow shared rules that make every session more enjoyable. |
 
-**Em evolução:** representação de outros jogadores, comunicação durante viagens e elementos da interface de jogo. A prioridade é aprimorar estabilidade e consistência antes de ampliar o acesso.
+**Work in progress:** player representation, in-game communication and user interface features. The current priority is improving stability and consistency before expanding access.
 
 <br>
 
-<sub>04 / LINGUAGENS</sub>
+<sub>04 / PROGRAMMING LANGUAGES</sub>
 
-## Como é desenvolvido?
+## What is it built with?
 
-O projeto combina linguagens com diferentes funções:
+Different parts of the project use different languages:
 
-| Linguagem | Utilização geral |
+| Language | General purpose |
 | :--- | :--- |
-| **C++** | Componentes nativos ligados à experiência no jogo. |
-| **JavaScript** | Aplicações de apoio e funcionalidades da plataforma. |
-| **HTML e CSS** | Construção e apresentação das interfaces. |
+| **C++** | Native components supporting the in-game experience. |
+| **JavaScript** | Supporting applications and platform features. |
+| **HTML & CSS** | Building and presenting user interfaces. |
 
-As tecnologias evoluem junto com o projeto. Esta apresentação descreve apenas as áreas gerais de desenvolvimento.
+The technology may evolve as development continues. This overview intentionally covers only the general areas of development.
 
 <br>
 
-<sub>05 / ESTADO DO PROJETO</sub>
+<sub>05 / PROJECT STATUS</sub>
 
-## Desenvolvimento contínuo.
+## Built to evolve.
 
-O SelecionadosMP é um projeto experimental de comunidade, **não um lançamento aberto ao público**. A experiência é disponibilizada gradualmente para testes e melhorias.
+SelecionadosMP is an experimental, community-driven project — **not a public release**. Access is introduced gradually for testing and improvement.
 
-Este repositório tem caráter **exclusivamente informativo**: apresenta o conceito, o modo de jogar e as linguagens utilizadas. Não disponibiliza código-fonte, instaladores ou configurações internas.
+This repository is **informational only**. It introduces the concept, explains the gameplay and lists the programming languages involved. It does **not** distribute source code, installers or internal configuration.
 
 <p align="center">
   <sub>SELECIONADOSMP / COMMUNITY MULTIPLAYER EXPERIENCE</sub>

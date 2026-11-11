@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-label="SelecionadosMP — uma estrada, vários motoristas">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-label="SelecionadosMP — one road, many drivers">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#0a0d12" />
@@ -47,7 +47,7 @@
       <text x="946" y="169" fill="#c7d5e4" font-size="12" letter-spacing="2.5">TOGETHER</text>
       <text x="946" y="197" fill="#c7d5e4" font-size="12" letter-spacing="2.5">EXPLORE</text>
       <text x="946" y="272" fill="#a4b7cb" font-size="11" letter-spacing="1.5">MADE FOR THE ROAD</text>
-      <text x="57" y="368" fill="#aebfce" font-size="12" letter-spacing="1.7">UMA ESTRADA. VÁRIOS MOTORISTAS.</text>
+      <text x="57" y="368" fill="#aebfce" font-size="12" letter-spacing="1.7">ONE ROAD. MANY DRIVERS.</text>
       <text x="1145" y="368" fill="#aebfce" font-size="11" text-anchor="end" letter-spacing="1.5">PROJECT OVERVIEW / BR</text>
     </g>
   </g>
