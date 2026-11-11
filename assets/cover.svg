@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="385" viewBox="0 0 1200 385" role="img" aria-label="SelecionadosMP — uma estrada, vários motoristas">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0a0d12" />
+      <stop offset=".55" stop-color="#15202b" />
+      <stop offset="1" stop-color="#080b10" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2=".6">
+      <stop stop-color="#8a9db1" stop-opacity=".07" />
+      <stop offset=".5" stop-color="#cedce9" stop-opacity=".35" />
+      <stop offset="1" stop-color="#a9c0d6" stop-opacity=".08" />
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#607e9d" stop-opacity=".22" />
+      <stop offset="1" stop-color="#607e9d" stop-opacity="0" />
+    </radialGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".6" numOctaves="2" seed="16" stitchTiles="stitch" />
+      <feColorMatrix type="saturate" values="0" />
+      <feComponentTransfer><feFuncA type="linear" slope=".12" /></feComponentTransfer>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="385" /></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="385" fill="url(#bg)" />
+    <ellipse cx="915" cy="205" rx="520" ry="280" fill="url(#glow)" />
+    <g fill="none" stroke="url(#line)" stroke-width="1.3">
+      <path d="M-80 317 C210 230 338 350 535 305 S925 250 1280 314" />
+      <path d="M-80 328 C210 241 338 361 535 316 S925 261 1280 325" />
+      <path d="M-80 339 C210 252 338 372 535 327 S925 272 1280 336" />
+      <path d="M-80 350 C210 263 338 383 535 338 S925 283 1280 347" />
+      <path d="M-80 361 C210 274 338 394 535 349 S925 294 1280 358" />
+      <path d="M-80 372 C210 285 338 405 535 360 S925 305 1280 369" />
+    </g>
+    <path d="M55 60 H1144 M55 338 H1144" stroke="#cbd7e3" opacity=".16" />
+    <path d="M930 93 V285" stroke="#cbd7e3" opacity=".12" />
+    <g fill="none" stroke="#bac9d8" opacity=".06">
+      <path d="M990 93 V285 M1050 93 V285 M1110 93 V285" />
+      <path d="M930 151 H1145 M930 209 H1145 M930 267 H1145" />
+    </g>
+    <rect width="1200" height="385" filter="url(#grain)" opacity=".20" />
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="56" y="42" fill="#c8d5e1" font-size="13" font-weight="700" letter-spacing="3.2">COMMUNITY MULTIPLAYER / 001</text>
+      <text x="52" y="173" fill="#f4f6f9" font-size="90" font-weight="800" letter-spacing="-4">SELECIONADOS</text>
+      <text x="57" y="265" fill="#9db3c9" font-size="91" font-weight="800" letter-spacing="-5">MP.</text>
+      <text x="946" y="141" fill="#c7d5e4" font-size="12" letter-spacing="2.5">DRIVE</text>
+      <text x="946" y="169" fill="#c7d5e4" font-size="12" letter-spacing="2.5">TOGETHER</text>
+      <text x="946" y="197" fill="#c7d5e4" font-size="12" letter-spacing="2.5">EXPLORE</text>
+      <text x="946" y="272" fill="#a4b7cb" font-size="11" letter-spacing="1.5">MADE FOR THE ROAD</text>
+      <text x="57" y="368" fill="#aebfce" font-size="12" letter-spacing="1.7">UMA ESTRADA. VÁRIOS MOTORISTAS.</text>
+      <text x="1145" y="368" fill="#aebfce" font-size="11" text-anchor="end" letter-spacing="1.5">PROJECT OVERVIEW / BR</text>
+    </g>
+  </g>
+</svg>
